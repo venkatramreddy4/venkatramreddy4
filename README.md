@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hello! 👋 I'm Venkat Ram Reddy
 
 I'm currently pursuing an MS in Business Analytics with a passion for data science, machine learning, and business intelligence. Here are a few things about me:
